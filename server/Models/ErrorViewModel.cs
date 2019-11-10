@@ -1,6 +1,6 @@
 using System;
 
-namespace wine_cellar.Models
+namespace server.Models
 {
     public class ErrorViewModel
     {

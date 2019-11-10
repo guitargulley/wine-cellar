@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using wine_cellar.Models;
+using server.Models;
 
-namespace wine_cellar.Controllers
+namespace server.Controllers
 {
     public class HomeController : Controller
     {
